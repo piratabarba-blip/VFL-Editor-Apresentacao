@@ -1,4 +1,4 @@
-# VFL — Editor de Vídeo de Apresentação
+# VFL Editor de Apresentação
 
 ![Interface profissional da suíte VFL](docs/interface-v1.2.png)
 
@@ -8,7 +8,7 @@ Baixe a versão portátil mais recente na página de [releases do projeto](https
 
 ## Início rápido
 
-Abra `VFL.EditorApresentacao.exe`, crie um perfil de cliente e selecione o vídeo principal. Todo o processamento é feito localmente no computador.
+Abra `VFL.EditorApresentacao.exe`, crie um perfil de cliente e selecione o vídeo principal. O executável é identificado pelo Windows como **VFL Editor de Apresentação**, inclusive ao ser fixado na barra de tarefas. Todo o processamento é feito localmente no computador.
 
 Aplicativo Windows para salvar um perfil por cliente e gerar automaticamente:
 
